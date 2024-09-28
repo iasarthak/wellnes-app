@@ -1,1 +1,1 @@
-# wellnes-app
+# wellness-app
